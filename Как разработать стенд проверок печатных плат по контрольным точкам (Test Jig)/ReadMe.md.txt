@@ -1,0 +1,1 @@
+Оригинал статью взят [отсюда](https://source-robotics.com/blogs/blog/how-to-design-a-test-jig-for-your-pcb?_pos=1&_sid=00bdc2e3f&_ss=r)
